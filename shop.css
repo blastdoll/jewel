@@ -144,7 +144,10 @@ aside p {
   font-size: 1.25em;
 }
 #wdol {
-  margin: 17px 0 0 0;
+  margin-top: 0;
+}
+div span p {
+  margin-bottom: 18px;
 }
 .zone {
   text-decoration: bold;
